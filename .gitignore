@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+models.pkl
+report.html
+run*.html
+*.csv
+!software/data/*.csv

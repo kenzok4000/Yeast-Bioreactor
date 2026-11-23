@@ -1,0 +1,8 @@
+numpy>=1.23
+scipy>=1.9
+casadi>=3.6
+plotly>=5.15
+dash>=2.14
+scikit-learn>=1.2
+pyserial>=3.5
+pytest>=7
